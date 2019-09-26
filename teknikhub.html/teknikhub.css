@@ -1,0 +1,36 @@
+
+body{
+    background-color: black    
+}
+#A{
+    text-align: right;
+    font-family: 'Londrina Outline', cursive;
+    color: black;
+}
+#S{
+    font-family: 'Londrina Outline', cursive;
+    font-size: 500%;
+    color: white;
+    text-align: center;
+}
+#R{
+    font-family: 'Londrina Outline', cursive;
+    font-size: 200%;
+    color: white;
+    position: relative;
+    left: 100px;
+}
+#FAQ{
+    font-family: 'Londrina Outline', cursive;
+    font-size: 200%;
+    color: white;
+    position: relative;
+    left: 1056px;
+    
+}
+#R:hover{
+    font-size: 300%
+}
+#FAQ:hover{
+    font-size: 300%
+}
